@@ -59,9 +59,11 @@ portent un fond navy cuit dans l'image (donc inutilisables ailleurs).
 
 ## À faire (suite)
 
-- Migrer le reste des assets encore sur `sportgen-summit.vercel.app/email-assets/`
-  (mur de logos partenaires, autres speakers) vers ce repo, avec des noms propres.
-- Option : repointer les `reference.html` des playbooks vers ces URLs propres.
+- Les 88 images encore sur `sportgen-summit.vercel.app/email-assets/` ont été migrées
+  le 11 septembre 2026 dans `sportgen/email-assets/` (le projet Vercel a été supprimé) —
+  mais à l'identique, sous leur nom UUID d'origine, pas avec des noms propres. Reste à
+  faire : identifier chaque image (mur de logos partenaires, autres speakers), la
+  renommer proprement, et repointer les `reference.html` des playbooks dessus.
 - Identifier la marque `sportgen/brochure-2027/logos/unidentified-mark-on-navy.png`
   (mur investisseurs) et la renommer.
 - Un portrait du lot d'origine n'a pas été migré faute d'identification :
