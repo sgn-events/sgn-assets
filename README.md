@@ -37,9 +37,11 @@ sportgen/            ← summit SPORT[GEN] (sombre + doré)
   speakers/          photos speakers (noms lisibles)
   ui/                éléments d'interface des emails
   brochure-2027/     les images de la brochure 17 pages — voir son README
-sgn-invest/          ← SGN Investment Summit (clair + monospace)
+sgn-invest/          ← SGN Invest (crème + cuivre, Coolvetica + Newsreader)
   logos/
   speakers/
+  fonts/             Coolvetica (light, book, regular) + Newsreader italique,
+                     chargées par les emails Invest via @font-face
 shared/
   partner-logos/     logos partenaires communs aux deux
   social/            icônes réseaux sociaux
