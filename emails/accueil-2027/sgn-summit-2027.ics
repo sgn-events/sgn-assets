@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGN//Accueil 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sgn-summit-2027@sportgensummit.com
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+SUMMARY:SPORT[GEN] Summit 2027
+LOCATION:Pavillon Gabriel\, 5 Avenue Gabriel\, 75008 Paris
+DESCRIPTION:Your ticket and the networking app arrive a few weeks before the event.
+URL:https://sportgensummit.com
+END:VEVENT
+END:VCALENDAR
